@@ -12,7 +12,7 @@ Este aplicativo Flutter é um índice de combustivel, uma ferramenta comumente u
 
 ### Tela Principal
 
-![Captura de Tela 1](assets\gifs\álcool_gasolina.gif)
+![Captura de Tela 1](assets/gifs/álcool_gasolina.gif)
 
 ## Como Executar
 
